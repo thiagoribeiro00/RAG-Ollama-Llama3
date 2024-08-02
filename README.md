@@ -1,7 +1,5 @@
 # LLaMA3 RAG on Google Colab
 
-![LLaMA3](https://nlpcloud.com/assets/images/llama-3.jpg)
-
 Este projeto demonstra como configurar e utilizar o modelo LLaMA3 RAG no Google Colab para tarefas de Recuperação de Informações e Geração de Respostas (RAG) usando o ollama localmente. 
 
 ## Descrição
